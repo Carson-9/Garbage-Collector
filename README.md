@@ -1,0 +1,1 @@
+J'aimerais revenir sur ce projet dans le futur proche afin de proprement implémenter une interface avec la mémoire sans devoir utiliser malloc (via mmap), ainsi que pour implémenter une gestion vraiment dynamique (i.e scalable) du tas.
